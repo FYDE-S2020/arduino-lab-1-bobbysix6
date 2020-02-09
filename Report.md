@@ -61,7 +61,7 @@ Team Number:
 ## Screenshots
 
 Procedure A, step 1:
-![Put path to your image here ->] Documents/ First\ Year\ Design /arduino-lab-1-bobbysix6/img
+![Put path to your image here ->] C:\Users\Ian\Documents\First Year Design\arduino-lab-1-bobbysix6\img
 
 Procedure A, step 4:
 ![Put path to your image here ->](img/placeholder.png)
