@@ -1,6 +1,6 @@
-Name:
+Name: Ian Joshi		
 
-EID:
+EID: ij2945
 
 Team Number:
 
@@ -61,7 +61,7 @@ Team Number:
 ## Screenshots
 
 Procedure A, step 1:
-![Put path to your image here ->](img/placeholder.png)
+![Put path to your image here ->] Documents/ First\ Year\ Design /arduino-lab-1-bobbysix6/img
 
 Procedure A, step 4:
 ![Put path to your image here ->](img/placeholder.png)
