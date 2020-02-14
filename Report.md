@@ -62,13 +62,13 @@ Team Number:
 ## Screenshots
 
 Procedure A, step 1:
-![Put path to your image here ->] C:\Users\Ian\Documents\First Year Design\arduino-lab-1-bobbysix6\img
+![Put path to your image here ->] C:\Users\Ian\Documents\First Year Design\arduino-lab-1-bobbysix6\img\ArduinoLab1_SS.PNG
 
 Procedure A, step 4:
-![Put path to your image here ->](C:\Users\Ian\Documents\First Year Design\arduino-lab-1-bobbysix6\img
+![Put path to your image here ->](C:\Users\Ian\Documents\First Year Design\arduino-lab-1-bobbysix6\img\ArduinoLab1_SSDim.PNG
 
 Procedure B, UART:
-![Put path to your image here ->]C:\Users\Ian\Documents\First Year Design\arduino-lab-1-bobbysix6\img
+![Put path to your image here ->]C:\Users\Ian\Documents\First Year Design\arduino-lab-1-bobbysix6\img\ArduinoLab1_SSHello.PNG
 
 Procedure B, SPI:
-![Put path to your image here ->]C:\Users\Ian\Documents\First Year Design\arduino-lab-1-bobbysix6\img
+![Put path to your image here ->]C:\Users\Ian\Documents\First Year Design\arduino-lab-1-bobbysix6\img\ArduinoLab1_SSspi.PNG
